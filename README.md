@@ -1,15 +1,15 @@
-# node-template
+## node-template
 
-Template to make a node server
+Opinionated template repo to make a node server
 
-## Features
+### Features
 
-- TypeScript
-- Linting
-- Prettier
-- Pre-commit hook
-- env ready
-- pull request template
+- ✅ typescript
+- 🔍 linting
+- ✨ prettier
+- 🪝 pre-commit hook
+- 💾 env ready
+- 📄 pull request template
 
 ### Development
 
