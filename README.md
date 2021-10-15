@@ -9,6 +9,7 @@ Template to make a node server
 - Prettier
 - Pre-commit hook
 - env ready
+- pull request template
 
 ### Development
 
