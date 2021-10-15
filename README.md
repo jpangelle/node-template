@@ -2,18 +2,32 @@
 
 Template to make a node server
 
-### Contributing
+## Features
+
+- TypeScript
+- Linting
+- Prettier
+- Pre-commit hook
+- env ready
+
+### Development
 
 #### Clone the repo
 
 ```sh
-git clone git@github.com:jpangelle/node-template.git
+git clone git@github.com:<github-username>/<repo-name>.git
 ```
 
 #### Install dependencies
 
 ```sh
 yarn install
+```
+
+#### Create environment variable file
+
+```sh
+touch .env
 ```
 
 #### Run app in development mode
@@ -27,6 +41,8 @@ yarn dev
 ```sh
 yarn lint
 ```
+
+### Production
 
 #### Build app
 
